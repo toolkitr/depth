@@ -34,13 +34,13 @@
     --interactive-hover: #dcddde;
     --interactive-active: #c9ced0;
     --interactive-muted: #4f545c;
-    --background-primary: #1a1414;
+    --background-primary: #14171a;
     --background-secondary: #14171a;
     --background-secondary-alt: #14171a;
-    --background-tertiary: #1a1414;
+    --background-tertiary: #171a1c;
     --background-accent: #4f545c;
     --background-floating: #14171a;
-    --modal-background: #1a1414;
+    --modal-background: #171a1c;
     --channeltextarea-background: #14171a;
     --info-positive-text: #fff;
     --info-warning-text: #fff;
